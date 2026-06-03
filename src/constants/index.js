@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.png";
-//import project4 from "../assets/projects/project4.png";
+import project4 from "../assets/projects/project4.png";
 import rcew from "../assets/rcew.webp"; 
 import rcew1 from "../assets/rcew.jpeg";
 
@@ -23,7 +23,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
  {
   title: "Converse AI",
-  image: project3,
+  image: project4,
   description:
     "Developed an AI-powered conversational platform that enables users to interact with an intelligent chatbot in real-time. The application features secure authentication, responsive chat interface, conversation history, and dynamic AI-generated responses, delivering a smooth and interactive user experience for productivity and learning purposes.",
   technologies: [
