@@ -12,7 +12,7 @@ export const ABOUT_TEXT = `As I advance in my career, my focus remains on expand
 export const EXPERIENCES = [
   {
     year: "2024 - 2028",
-    image: rcew,
+    image: rcew1,
     role: "BTech - Computer Science & Engineering",
     company: "Rajasthan College of Engineering for Women, Jaipur",
     description: `Pursuing a Bachelor of Technology (BTech) in Computer Science Engineering at Rajasthan College of Engineering for Women, Jaipur, with a current GPA of 8.90/10.00 (Absolute). Currently in the second year, I am honing my skills in software development.`,
