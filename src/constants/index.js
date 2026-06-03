@@ -2,8 +2,8 @@ import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.png";
 import project4 from "../assets/projects/project4.png";
-import rcew from "../assets/rcew.webp"; 
-import rcew1 from "../assets/rcew.jpeg";
+//import rcew from "../assets/rcew.webp"; 
+//import rcew1 from "../assets/rcew.jpeg";
 
 export const HERO_CONTENT = `I am a Computer Science Engineering student at RCEW Jaipur with a strong interest in full-stack web development and problem solving. I have experience working with technologies such as React.js, Node.js, and databases like MongoDB and MySQL. Through various academic and personal projects, I have developed web applications that focus on clean design, functionality, and better user experience. I am passionate about technology and continuously work on improving my development skills while exploring new tools and frameworks in software development`;
 
@@ -12,7 +12,7 @@ export const ABOUT_TEXT = `As I advance in my career, my focus remains on expand
 export const EXPERIENCES = [
   {
     year: "2024 - 2028",
-    image: rcew1,
+    image: "",
     role: "BTech - Computer Science & Engineering",
     company: "Rajasthan College of Engineering for Women, Jaipur",
     description: `Pursuing a Bachelor of Technology (BTech) in Computer Science Engineering at Rajasthan College of Engineering for Women, Jaipur, with a current GPA of 8.90/10.00 (Absolute). Currently in the second year, I am honing my skills in software development.`,
