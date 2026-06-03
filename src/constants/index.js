@@ -22,7 +22,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
  {
   title: "Converse AI",
-  image: project2,
+  image: project4,
   description:
     "Developed an AI-powered conversational platform that enables users to interact with an intelligent chatbot in real-time. The application features secure authentication, responsive chat interface, conversation history, and dynamic AI-generated responses, delivering a smooth and interactive user experience for productivity and learning purposes.",
   technologies: [
