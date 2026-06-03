@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.png";
-import project3 from "../assets/projects/project4.png";
+import project4 from "../assets/projects/project4.png";
 import rcew from "../assets/rcew.webp"; 
 import rcew1 from "../assets/rcew.jpeg";
 
