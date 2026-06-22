@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     image: rcew1,
     role: "BTech - Computer Science & Engineering",
     company: "Rajasthan College of Engineering for Women, Jaipur",
-    description: `Pursuing a Bachelor of Technology (BTech) in Computer Science Engineering at Rajasthan College of Engineering for Women, Jaipur, with a current GPA of 8.90/10.00 (Absolute). Currently in the second year, I am honing my skills in software development.`,
+    description: `Pursuing a Bachelor of Technology (BTech) in Computer Science Engineering at Rajasthan College of Engineering for Women, Jaipur, with a current GPA of 8.90/10.00 (Absolute). Currently in the third year, I am honing my skills in software development.`,
     technologies: ["DBMS", "OOPS", "Data Structures & Algorithms"],
   },
 ];
