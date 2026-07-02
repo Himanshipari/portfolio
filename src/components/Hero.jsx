@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Button from '@mui/material/Button';
 import profilePic from "../assets/profpic.jpeg";
 import { FaDownload } from "react-icons/fa";
-import resume from "../assets/Himanshi__Parihar__Resume.pdf";
+import resume from "../assets/Himanshi_Parihar_Resume.pdf";
 import { Spotlight } from "./Spotlight.jsx";
 import { FlipWords } from "./Flip.jsx";
 import { ButtonsCard } from "./Buttons.jsx";
